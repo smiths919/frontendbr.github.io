@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Manual da Atração Proibida 🔞</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(to bottom, #1a0000, #000);
+      color: #fff;
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+
+    .container {
+      padding: 80px 20px;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      color: #ff1a1a;
+      margin-bottom: 20px;
+    }
+
+    p {
+      font-size: 1.1rem;
+      max-width: 600px;
+      margin: 0 auto 30px;
+      color: #ccc;
+    }
+
+    .cta-btn {
+      display: inline-block;
+      background: #ff1a1a;
+      color: #000;
+      padding: 15px 30px;
+      border-radius: 40px;
+      font-size: 1.1rem;
+      font-weight: bold;
+      text-decoration: none;
+      box-shadow: 0 0 15px #ff1a1a80;
+      transition: 0.3s;
+    }
+
+    .cta-btn:hover {
+      background: #ff4d4d;
+    }
+
+    .brinde {
+      margin-top: 60px;
+      background: #111;
+      padding: 20px;
+      border-radius: 15px;
+      max-width: 700px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .brinde h2 {
+      color: #ff4d4d;
+      margin-bottom: 10px;
+    }
+
+    footer {
+      margin-top: 60px;
+      font-size: 0.8rem;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>⚠️ Manual Proibido da Atração</h1>
+    <p>O guia que ensina qualquer homem a despertar o desejo, confiança e interesse verdadeiro nas mulheres — com linguagem direta, técnica e atitude real.</p>
+    <a href="https://SEU-LINK-HOTMART-OU-KIWIFY" target="_blank" class="cta-btn">QUERO ACESSAR O MANUAL</a>
+  </div>
+
+  <div class="brinde">
+    <h2>🔥 BÔNUS EXCLUSIVO</h2>
+    <p>Após a compra, você receberá um **brinde físico surpresa** diretamente no seu endereço.</p>
+    <p>Esse item é enviado como recompensa secreta para quem adquirir o manual completo.</p>
+    <p style="font-size: 0.9rem; color: #999;">(Sim, é real. Mas só depois da compra confirmada.)</p>
+  </div>
+
+  <footer>
+    <p>© 2025 Manual da Atração Proibida – Conteúdo reservado para maiores de 18 anos.</p>
+  </footer>
+</body>
+</html>
